@@ -1,5 +1,4 @@
 # Descubra as melhores notas de matemática do ENEM 2016
----
 
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016.
 
@@ -40,4 +39,3 @@ Faça o upload do arquivo answer.csv usando o botão “Submeter resposta”.
 O objetivo do desafio é avaliar a sua capacidade de resolver problemas, então ele pode ser resolvido em qualquer
 linguagem de programação ou ferramenta que você tenha facilidade. Mas recomendamos o uso de linguagens com maior
 ferramental de matemática e estatística como Python, R, Scala ou Julia.
-# desafio-datascience-codenation
